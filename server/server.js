@@ -1,5 +1,5 @@
 import http from "http";
-import dotenv from 'doenv'
+import dotenv from 'doenv';
 import app from "./index"
 
 dotenv.config()
